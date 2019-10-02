@@ -11,3 +11,5 @@ This uses the "developer" menu in Safari and utilises it to allow for you to do 
 3. Open and click "Ok" to the prompt(s). The app should display an error regarding accessibility.
 4. Go into System Preferences/Security and Privacy/Privacy. Scroll down until you see "Accessibility". Click on the lock in the lower left-hand corner and then follow the prompts. Afterwards, tick the box with "Instagram" next to it. If instagram is not displayed then click + , then click on the app and OK
 5. Restart your computer
+
+# Whilst downloading you may see a message regarding security of this file. Ignore that message.
