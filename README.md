@@ -1,6 +1,6 @@
 # macosinstagramshortcut
 A macOS applet that opens instagram and lets you do all the stuff that is on the mobile web page.
-
+# Click on the RELEASES TAB to download the app. DO NOT DOWNLOAD FROM THE MASTER BRANCH
 This uses the "developer" menu in Safari and utilises it to allow for you to do stuff on instagram that would not normally be available in the desktop website.
 
 *Not associated with instagram in any way.*
