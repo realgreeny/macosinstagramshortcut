@@ -13,3 +13,5 @@ This uses the "developer" menu in Safari and utilises it to allow for you to do 
 5. Restart your computer
 
 # Whilst downloading you may see a message regarding security of this file. Ignore that message.
+
+More Information at https://realgreenydev9.wixsite.com/macosinstagram
