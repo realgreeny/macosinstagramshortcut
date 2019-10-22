@@ -4,7 +4,7 @@ A macOS applet that opens instagram and lets you do all the stuff that is on the
 This uses the "developer" menu in Safari and utilises it to allow for you to do stuff on instagram that would not normally be available in the desktop website.
 
 *Not associated with instagram in any way.*
-# THE CURRENT VERSION ONLY WORKS WITH macOS 10.14.6
+# THE CURRENT VERSION ONLY WORKS WITH macOS 10.14.6 and Above. It is currently supported by macOS Mojave and macOS Catalina
 # Setup Instructions
 1. Download file & open. You should get a warning about an unknown developer. Go into System Preferences/Security and Privacy/General and click Allow where it mentions this app being from an unknown developer.
 2. Scan using an antivirus scanning software if concerned
